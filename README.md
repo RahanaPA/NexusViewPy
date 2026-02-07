@@ -2,7 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/NexusViewPy.svg)](https://pypi.org/project/NexusViewPy/)
 [![Python versions](https://img.shields.io/pypi/pyversions/NexusViewPy.svg)](https://pypi.org/project/NexusViewPy/)
-[![License](https://img.shields.io/pypi/l/NexusViewPy.svg)](https://github.com/entbappy/NexusViewPy/blob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/NexusViewPy.svg)](https://github.com/yourname/NexusViewPy/blob/main/LICENSE)
 
 **NexusViewPy** is a lightweight Python library designed for Data Scientists and Jupyter Notebook users. It allows you to seamlessly render live websites and embed YouTube videos directly within your `.ipynb` environment (Jupyter Notebook, JupyterLab, Google Colab).
 
